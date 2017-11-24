@@ -9,6 +9,7 @@ __email__="pkuguoxiao@pku.edu.cn"
 import turtle
 import math
 
+
 def main():
     wn = turtle.Screen()
     turtlelist=["sun","murcury","venus","earth","mars","jupiter","saturn"]
